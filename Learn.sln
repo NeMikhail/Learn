@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.645
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learn", "Learn\Learn.csproj", "{77BEF990-8F7B-4BDF-A271-591EFC3B2E2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Learn", "Learn\Learn.csproj", "{77BEF990-8F7B-4BDF-A271-591EFC3B2E2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalc", "SimpleCalc\SimpleCalc.csproj", "{A36CA433-1FD4-4829-A5B5-EFD2CDE19DF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{77BEF990-8F7B-4BDF-A271-591EFC3B2E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77BEF990-8F7B-4BDF-A271-591EFC3B2E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77BEF990-8F7B-4BDF-A271-591EFC3B2E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A36CA433-1FD4-4829-A5B5-EFD2CDE19DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36CA433-1FD4-4829-A5B5-EFD2CDE19DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36CA433-1FD4-4829-A5B5-EFD2CDE19DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36CA433-1FD4-4829-A5B5-EFD2CDE19DF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
